@@ -1,0 +1,383 @@
+body{
+    color: black;
+}
+.wrapper{
+    max-width: 1445px;
+}
+.header{
+    position: absolute;
+    margin-bottom: 104px;
+  display: flex;
+  width: 1444px;
+  justify-content: space-between;
+  height: 110px;
+}
+
+.header_nav{
+    position: absolute;
+ left: 430px;
+ top: 35px;
+}
+.header_logo{
+    position: absolute;
+    font-weight: bolder;
+    font-size: 50px;
+    height: 118px;
+width: 123px;
+left: 271px;
+top: 135px;
+}
+.header_elementary{
+    position: absolute;
+    left: 275px;
+    top: 51px;
+    height: 23.033828735351562px;
+    height: 300px;
+    font-weight: 700;
+    color: black;
+}
+.header_list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.header_item{
+    margin-right: 215px;
+}
+.header_item:last-child{
+    margin-right: 0;
+}
+
+.header_link {
+    position: absolute;
+    font-size: 18px;
+    line-height: 24px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.header_text{
+    position: absolute;
+    height: 44px;
+width: 145px;
+left: 645px;
+top: 210px;
+}
+.header_icon{
+    position: absolute;
+    height: 65px;
+width: 20px;
+left: 1165px;
+top: 177px;
+font-size: 16px;
+font-size: 160px;
+line-height: 20px;
+}
+.header_foto{
+    position: absolute;
+    height: 387px;
+width: 943px;
+left: 250px;
+top: 276px;
+}
+.story{
+    position: absolute;
+    background-color: #f6f6f6;
+    height: 450px;
+    left: 0px;
+width: 1444px;
+top: 768px;
+}
+.story_about-my{
+    position: absolute;
+    height: 43.063232421875px;
+width: 155.64605712890625px;
+left: 645px;
+top: 120px;
+font-weight: 900;
+font-size: 30px;
+}
+.story_text{
+    position: absolute;
+    height: 218px;
+width: 485.343505859375px;
+left: 480.32958984375px;
+top: 181px;
+line-height: 33px;
+font-size: 15px;
+}
+.skills{
+    position: absolute;
+    height: 26.038330078125px;
+width: 124.51679992675781px;
+left: 661.74658203125px;
+top: 1365.00390625px;
+font-size: 34px;
+}
+.skills_text{
+    position: absolute;
+    height: 24.03515625px;
+width: 227.94606018066406px;
+left: 609.529296875px;
+top: 1460.14453125px;
+font-size: 18px;
+}
+
+
+
+.skills_icon1{
+    position: absolute;
+    height: 88.4130859375px;
+width: 89.07325744628906px;
+left: 294px;
+top: 1566.646484375px;
+}
+.skills_icon-text11{
+    position: absolute;
+    height: 28.2655029296875px;
+width: 70.291748046875px;
+left: 315.25830078125px;
+top: 1649.265625px;
+}
+.skills_icon-text12{
+    position: absolute;
+    height: 27.2655029296875px;
+width: 70.291748046875px;
+left: 303.25830078125px;
+top: 1669.265625px;
+}
+.skills_star1{
+    position: absolute;
+height: 26px;
+width: 166.46063232421875px;
+left: 255.7080078125px;
+top: 1746.94140625px;
+border-radius: 1px;
+
+}
+
+
+
+.skills_icon2{
+    position: absolute;
+    height: 88.5723876953125px;
+width: 89.20947265625px;
+left: 551px;
+top: 1567px;
+}
+.skills_icon-text21{
+    position: absolute;
+    height: 27.2655029296875px;
+width: 63.26252365112305px;
+left: 572.642529296875px;
+top: 1649.267578125px;
+}
+.skills_icon-text22{
+    position: absolute;
+    height: 27.2655029296875px;
+width: 63.26252365112305px;
+left: 563.642529296875px;
+top: 1669.267578125px;
+}
+.skills_star2{
+    position: absolute;
+    height: 26px;
+width: 166.46078491210938px;
+left: 512.41845703125px;
+top: 1746.94140625px;
+border-radius: 1px;
+}
+
+
+
+.skills_icon3{
+    position: absolute;
+height: 88.5723876953125px;
+width: 89.20953369140625px;
+left: 808.354736328125px;
+top: 1566.669921875px;
+}
+.skills_icon-text31{
+    position: absolute;
+    height: 27.2655029296875px;
+width: 79.32927703857422px;
+left: 829.37548828125px;
+top: 1649.267578125px;
+}
+.skills_icon-text32{ 
+    position: absolute;
+    height: 100.2655029296875px;
+width: 109.32927703857422px;
+left: 812.37548828125px;
+top: 1669.267578125px;
+}
+.skills_star3{
+    position: absolute;
+    height: 26px;
+width: 166.46063232421875px;
+left: 769.13px;
+top: 1746.94140625px;
+border-radius: 1px;
+}
+
+
+
+.skills_icon4{
+    position: absolute;
+    height: 85.9906005859375px;
+width: 58.252437591552734px;
+left: 1082.49267578125px;
+top: 1567.669921875px;
+}
+.skills_icon-text41{
+    position: absolute;
+    height: 9.7373046875px;
+    width: 41.17097473144531px;
+    left: 1090.526123046875px;
+    top: 1649.2421875px;    
+}
+.skills_star4{
+    position: absolute;
+    height: 26px;
+width: 166.46063232421875px;
+left: 1025.84px;
+top: 1746.94140625px;
+border-radius: 1px;
+}
+.portfolio{
+    position: absolute;
+    background-color: #f6f6f6;
+    height: 2253px;
+width: 1444px;
+top: 1884px;
+}
+
+.portfolio_portfolio{
+    position: absolute;
+    height: 43.063232421875px;
+width: 132.55015563964844px;
+left: 659.16552734375px;
+top: 113px;
+font-size: 34px;
+font-weight: 900;
+}
+.portfolio_foto1{
+    position: absolute;
+    height: 510px;
+width: 936.2395629882812px;
+left: 257.71337890625px;
+top: 203px;
+}
+.portfolio_text1{
+    position: absolute;
+    height: 22.032470703125px;
+width: 276.1461181640625px;
+left: 589.4462890625px;
+top: 757px;
+}
+.portfolio_foto2{
+    position: absolute;
+    height: 522px;
+width: 936.2395629882812px;
+left: 256.8857421875px;
+top: 879px;
+}
+.portfolio_text2{
+    position: absolute;
+    height: 22.032470703125px;
+width: 202.84188842773438px;
+left: 626.6005859375px;
+top: 1446px;
+}
+.portfolio_foto3{
+    position: absolute;
+    height: 522px;
+width: 936.2395629882812px;
+left: 252.69970703125px;
+top: 1567px;
+}
+.portfolio_text3{
+    position: absolute;
+    height: 22.032470703125px;
+width: 259.0751953125px;
+left: 598.48388671875px;
+top: 2135px;
+}
+.footer{
+    height: 4759px;
+    width: 1445px;
+    background-color: #ffff;
+}
+.footer_contacts{
+    position: absolute;
+    height: 43.06298828125px;
+width: 145.6042938232422px;
+left: 644px;
+top: 4251.244140625px;
+font-size: 34px;
+}
+.footer_text11{
+    position: absolute;
+    height: 44.06494140625px;
+width: 275.1419372558594px;
+left: 590.4501953125px;
+top: 4314.3359375px;
+font-size: 18px;
+}
+.footer_text12{
+    position: absolute;
+    height: 44.06494140625px;
+width: 275.1419372558594px;
+left:640.4501953125px;
+top: 4335.3359375px;
+font-size: 18px;
+}
+.search-form_submit{
+    position: absolute;
+    height: 42px;
+width: 180.49964904785156px;
+left: 620.75732421875px;
+top: 4388px;
+background-color: #070707;
+border-radius: 15px;
+color: #f6f6f6;
+}
+.footer_icon1{
+    position: absolute;
+    height: 40.05908203125px;
+width: 40.16672897338867px;
+left: 546.2919921875px;
+top: 4516.642578125px;
+}
+.footer_icon2{
+    position: absolute;
+    height: 39.998046875px;
+width: 39.10825729370117px;
+left: 647.809814453125px;
+top: 4515.783203125px;
+}
+.footer_icon3{
+    position: absolute;
+    height: 40px;
+width: 40.11103439331055px;
+left: 747.084716796875px;
+top: 4516px;
+}
+.footer_icon4{
+    position: absolute;
+    height: 39.998046875px;
+width: 39.10825729370117px;
+left: 849.36767578125px;
+top: 4515.783203125px;
+}
+.footer_text21{
+    position: absolute;
+    height: 34.0498046875px;
+left: 677.5087890625px;
+top: 4601.7587890625px;
+}
+.footer_text22{
+    position: absolute;
+    height: 340.0498046875px;
+left: 595.5087890625px;
+top: 4620.7587890625px;
+}
+
